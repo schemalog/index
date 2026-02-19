@@ -160,7 +160,7 @@ MIT License — free to use, extend, and embed in commercial or open-source proj
 
 ## Contact
 
-For questions about implementation, collaboration, or commercial use: [your contact]
+For questions about implementation, collaboration, or commercial use: [contact@schemalog.com]
 
 ---
 
